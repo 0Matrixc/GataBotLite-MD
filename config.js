@@ -20,7 +20,7 @@ global.owner = [
 ['593968585383']]
 
 global.mods = [] 
-global.prems = []
+global.prems = [595984749022]
 
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 global.isBaileysFail = true
@@ -93,7 +93,7 @@ global.axios = axios
 global.moment = moment	
 
 global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.author = '𝙂𝙖𝙩𝙖 MD'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
